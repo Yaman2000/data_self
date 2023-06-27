@@ -1,0 +1,70 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX450 (ID=0x1f97)
+    Vendor:   NVIDIA
+    VRAM:     1920 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.980700 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3bd4 -> priority: 1 
+  Thread -> id: 2698 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.208799 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.543800 ms (FindLiveObjects: 0.056700 ms CreateObjectMapping: 0.031300 ms MarkObjects: 0.421500 ms  DeleteObjects: 0.033100 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.045500 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1570.
+Total: 1.023500 ms (FindLiveObjects: 0.102000 ms CreateObjectMapping: 0.047700 ms MarkObjects: 0.439700 ms  DeleteObjects: 0.433400 ms)
+
+Platform assembly: C:\Users\Dell\Downloads\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Starting to record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Stopping record
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.635000 ms
+
+Unloading 180 unused Assets to reduce memory usage. Loaded Objects now: 473.
+Total: 9.288600 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.097900 ms MarkObjects: 2.234900 ms  DeleteObjects: 6.823700 ms)
+
